@@ -1,0 +1,4 @@
+#Sun Nov 29 01:40:14 AST 2020
+base.0=/Users/ahmedreda/Documents/weather/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

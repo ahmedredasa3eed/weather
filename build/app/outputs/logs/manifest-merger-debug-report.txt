@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:1:1-51:12
+MERGED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:1:1-51:12
+MERGED from [:geolocator] /Users/ahmedreda/Documents/weather/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_api_availability] /Users/ahmedreda/Documents/weather/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:location_permissions] /Users/ahmedreda/Documents/weather/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/e4f40ca777a3ed6eae05a6034fb3a329/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/a7913b8d4650a3c6ec8fedfea19c6d60/play-services-tasks-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/65a0220a3f785722becfff291c5c5efe/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3e53a7a5ccbd441815acb7ea2c33020e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ab0381365926180f757c36f2d9ef0493/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/8bfebbde4233da3e331c38450412132b/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/d840a6627cfb94d950ef65dbb5143792/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/932c2f8586519a05d615054d257e058e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/8a246a944f392f9c73a09cc127e7460b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/b08c1603325bba5db4c700f70c064742/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/beb206d33332b3bafb514f226d36b83d/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/9dace8a6115948f92ad3832e6f20a768/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/28056385312a10620ecfa82b56db91dc/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ed900ab4a3e59a278858dac36be23ad3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/61625c70454ac14aac94e65d6a5266d0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/84bd3199b29650179e39c6cce7684070/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/46be5dcf3851bc6266670f42fa031239/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3d8ea259930a82651df2c11d47e4f617/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:1:1-51:12
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:1:1-51:12
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:4:22-78
+application
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:12:5-50:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/e4f40ca777a3ed6eae05a6034fb3a329/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/e4f40ca777a3ed6eae05a6034fb3a329/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/a7913b8d4650a3c6ec8fedfea19c6d60/play-services-tasks-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/a7913b8d4650a3c6ec8fedfea19c6d60/play-services-tasks-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/65a0220a3f785722becfff291c5c5efe/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/65a0220a3f785722becfff291c5c5efe/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3e53a7a5ccbd441815acb7ea2c33020e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3e53a7a5ccbd441815acb7ea2c33020e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/b08c1603325bba5db4c700f70c064742/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/b08c1603325bba5db4c700f70c064742/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/84bd3199b29650179e39c6cce7684070/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/84bd3199b29650179e39c6cce7684070/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/b08c1603325bba5db4c700f70c064742/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:14:9-32
+	android:icon
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:13:9-57
+activity#com.ahmedreda.weather.MainActivity
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:16:9-44:20
+	android:launchMode
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:17:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:27:13-30:17
+	android:resource
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:29:15-52
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:28:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:36:13-39:17
+	android:resource
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:38:15-61
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:37:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:42:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:47:9-49:33
+	android:value
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:49:13-30
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml:48:13-44
+uses-sdk
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml
+MERGED from [:geolocator] /Users/ahmedreda/Documents/weather/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/ahmedreda/Documents/weather/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/ahmedreda/Documents/weather/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/ahmedreda/Documents/weather/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/ahmedreda/Documents/weather/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/ahmedreda/Documents/weather/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/e4f40ca777a3ed6eae05a6034fb3a329/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/e4f40ca777a3ed6eae05a6034fb3a329/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/a7913b8d4650a3c6ec8fedfea19c6d60/play-services-tasks-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/a7913b8d4650a3c6ec8fedfea19c6d60/play-services-tasks-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/65a0220a3f785722becfff291c5c5efe/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/65a0220a3f785722becfff291c5c5efe/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3e53a7a5ccbd441815acb7ea2c33020e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3e53a7a5ccbd441815acb7ea2c33020e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ab0381365926180f757c36f2d9ef0493/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ab0381365926180f757c36f2d9ef0493/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/8bfebbde4233da3e331c38450412132b/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/8bfebbde4233da3e331c38450412132b/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/d840a6627cfb94d950ef65dbb5143792/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/d840a6627cfb94d950ef65dbb5143792/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/932c2f8586519a05d615054d257e058e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/932c2f8586519a05d615054d257e058e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/8a246a944f392f9c73a09cc127e7460b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/8a246a944f392f9c73a09cc127e7460b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/b08c1603325bba5db4c700f70c064742/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/b08c1603325bba5db4c700f70c064742/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/beb206d33332b3bafb514f226d36b83d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/beb206d33332b3bafb514f226d36b83d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/9dace8a6115948f92ad3832e6f20a768/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/9dace8a6115948f92ad3832e6f20a768/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/28056385312a10620ecfa82b56db91dc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/28056385312a10620ecfa82b56db91dc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ed900ab4a3e59a278858dac36be23ad3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ed900ab4a3e59a278858dac36be23ad3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/61625c70454ac14aac94e65d6a5266d0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/61625c70454ac14aac94e65d6a5266d0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/84bd3199b29650179e39c6cce7684070/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/84bd3199b29650179e39c6cce7684070/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/46be5dcf3851bc6266670f42fa031239/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/46be5dcf3851bc6266670f42fa031239/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3d8ea259930a82651df2c11d47e4f617/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3d8ea259930a82651df2c11d47e4f617/multidex-2.0.0/AndroidManifest.xml:20:5-43
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/ahmedreda/Documents/weather/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:geolocator] /Users/ahmedreda/Documents/weather/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:geolocator] /Users/ahmedreda/Documents/weather/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/ae49a4e15e28e7d304ef00049c9d1040/play-services-base-17.2.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3e53a7a5ccbd441815acb7ea2c33020e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3e53a7a5ccbd441815acb7ea2c33020e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /Users/ahmedreda/.gradle/caches/transforms-2/files-2.1/3e53a7a5ccbd441815acb7ea2c33020e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:24:13-58
